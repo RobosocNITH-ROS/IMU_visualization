@@ -16,7 +16,7 @@ Setup
 
     bash
 
-git clone <repository_URL>
+git clone https://github.com/Aakash872/imu_visualization.git
 
 Open a terminal and run the rosserial serial node to establish communication between Arduino and ROS:
 
