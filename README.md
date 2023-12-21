@@ -32,9 +32,9 @@ bash
 
 Notes
 
-    Make sure your Arduino is properly configured to send IMU sensor data.
-    The imu_display.rviz file contains the RViz configuration for visualizing the IMU sensor data. Adjust it according to your requirements.
-    Modify the topic names in imu_display.rviz if your ROS topics differ from the defaults.
+    1.Make sure your Arduino is properly configured to send IMU sensor data.
+    2.The imu_display.rviz file contains the RViz configuration for visualizing the IMU sensor data. Adjust it according to your requirements.
+    3.Modify the topic names in imu_display.rviz if your ROS topics differ from the defaults.
 
 Contact
 
