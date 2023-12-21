@@ -2,17 +2,18 @@
 IMU Sensor Visualization with ROS and Arduino Mega
 
 This repository contains code to visualize IMU sensor data from an Arduino Mega connected to the BNO055 IMU sensor using ROS Noetic.
+
 Prerequisites
 
-    ROS Noetic installed (Installation Guide)
-    Arduino Mega connected to the BNO055 IMU sensor
-    rosserial_python package installed (Installation Guide)
-    RViz installed (Installation Guide)
+    1.ROS Noetic installed (Installation Guide)
+    2.Arduino Mega connected to the BNO055 IMU sensor
+    3.rosserial_python package installed (Installation Guide)
+    4.RViz installed (Installation Guide)
 
 Setup
 
-    Connect your Arduino Mega to the BNO055 IMU sensor.
-    Clone this repository into your ROS workspace:
+    1.Connect your Arduino Mega to the BNO055 IMU sensor.
+    2.Clone this repository into your ROS workspace:
 
 bash
 
@@ -22,7 +23,7 @@ Open a terminal and run the rosserial serial node to establish communication bet
 
 bash
 
-rosrun rosserial_python serial_node.py
+rosrun rosserial_python serial_node.py /dev/ttyUSB0
 
 Open another terminal and launch RViz with the pre-configured display for IMU visualization:
 
