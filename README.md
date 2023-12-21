@@ -31,6 +31,13 @@ bash
 
     rviz -d imu_display.rviz
 
+## Video Demonstration
+
+Check out this video demonstrating the IMU sensor visualization:
+
+[Direct link to video](https://drive.google.com/file/d/1jZdntY70H5puhPGzcmkoQJnDq_M82B4g/view?usp=sharing)
+
+
 Notes
 
     1.Make sure your Arduino is properly configured to send IMU sensor data.
