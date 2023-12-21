@@ -35,7 +35,7 @@ bash
 
 Check out this video demonstrating the IMU sensor visualization:
 
-[Direct link to video](https://drive.google.com/file/d/1jZdntY70H5puhPGzcmkoQJnDq_M82B4g/view?usp=sharing)
+[Direct link to video](https://youtu.be/5yBu7VM4hyY)
 
 
 Notes
