@@ -12,8 +12,9 @@ Prerequisites
 
 Setup
 
-    1.Connect your Arduino Mega to the BNO055 IMU sensor.
-    2.Clone this repository into your ROS workspace:
+> Connect your Arduino Mega to the BNO055 IMU sensor.
+
+> Clone this repository into your ROS workspace:
 
 bash
 
