@@ -24,7 +24,8 @@ Open a terminal and run the rosserial serial node to establish communication bet
 
 bash
 
-rosrun rosserial_python serial_node.py /dev/ttyUSB0 
+ rosrun rosserial_python serial_node.py /dev/ttyUSB0 
+
 (Note: It may happen that your Arduino_ide shows another port apart from USB0(eg: ACM0), you may replace "USB0" as required.)
 
 Open another terminal and launch RViz with the pre-configured display for IMU visualization:
